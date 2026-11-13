@@ -14,7 +14,7 @@
 
 window.BLOG = {
   title: "Ruchira's Notes",
-  tagline: "Writing about AI, science, and product management.",
+  tagline: "Writing about AI, Science, and Product Management.",
   author: "Ruchira Sharma",
   about:
     "I write about how AI is reshaping work, and about building products at the meeting point of science, healthcare and technology.",
