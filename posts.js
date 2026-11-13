@@ -20,7 +20,7 @@ window.BLOG = {
     "I write about how AI is reshaping work, and about building products at the meeting point of science, healthcare and technology.",
   links: [
     // { label: "GitHub", url: "https://github.com/sharmaruchira" },
-    // { label: "LinkedIn", url: "https://linkedin.com/in/sharmaruchira" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/sharmaruchira/" },
   ],
 };
 
